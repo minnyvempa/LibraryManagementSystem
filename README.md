@@ -2,7 +2,7 @@
 
 Advance Java Technology (01CE0308) project, Marwadi University.
 
-**Student:** Mayank Chauhan | **Enrollment No:** 92610120099
+**Student:** MINNY VEMPA | **Enrollment No:** 92500120170
 
 ## About
 A Java web application for a library. Members can register and log in, view the book list from the database, issue books and return books. A Java Swing desktop dashboard shows the same book records.
